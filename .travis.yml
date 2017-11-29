@@ -3,7 +3,6 @@ node_js:
   - "8"
   - "7"
 before_script: cd app/
-before_install: cd app/
 install:
   - yarn install
 
