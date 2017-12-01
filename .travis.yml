@@ -2,9 +2,7 @@ language: node_js
 node_js:
   - "8"
   - "7"
-before_script: cd app/
+before_install: cd app/
 install:
+  - npm install -g react-scripts
   - yarn install
-
-script:
-    - yarn test
