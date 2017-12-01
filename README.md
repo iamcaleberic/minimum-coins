@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/iamcaleberic/minimum-coins.svg?branch=master)](https://travis-ci.org/iamcaleberic/minimum-coins)
+
 # minimum-coins
 Calculate least number of coins from a given amount in sterling
 
